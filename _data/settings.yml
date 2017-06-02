@@ -6,7 +6,7 @@ author:
 
 menu:
 - {name: 'About', url: 'about.html'}
-- {name: 'Writing', url: 'writing.html'}
+- {name: 'Posts', url: 'posts.html'}
 - {name: 'Contact', url: 'contact.html'}
 
 social:
