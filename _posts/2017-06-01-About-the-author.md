@@ -5,8 +5,8 @@ author: "Mark Delcambre"
 categories: journal
 tags: [documentation]
 image:
-  feature: cutting.jpg
-  teaser: cutting-teaser.jpg
+  feature: civil-1024x600.jpg
+  teaser: civil-teaser1024x380.jpg
   credit:
   creditlink:
 ---
