@@ -5,8 +5,8 @@ author: "Mark Delcambre"
 categories: journal
 tags: [documentation]
 image:
-  feature: civil-1024x600.jpg
-  teaser: civil-teaser1024x380.jpg
+  feature: civil.png
+  teaser: civil-teaser.png
   credit:
   creditlink:
 ---
