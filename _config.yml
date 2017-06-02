@@ -1,4 +1,6 @@
 # Site Settings
+title: Scratch Pad
+tagline: Mark Delcambre's Random Projects
 
 paginate:            5
 disqus:              #"your-disqus"
